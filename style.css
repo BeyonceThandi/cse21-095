@@ -63,7 +63,7 @@ background-color: #D2B4DE}
 h1{
 	
 	color:white;
-	font-family: Copperplate,Papyrus,fantasy;
+	font-family: Sans-serif;
 	font-size: 60px;
 }
 * {
@@ -82,7 +82,7 @@ h1{
   display: table;
 }
 h2{
-	font-family:Copperplate,Papyrus,fantasy;
+	font-family:Sans,serif;
 	font-size:10 px;
 	
 }
